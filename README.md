@@ -9,3 +9,5 @@ Write a poem about a drone in the style of Shakespeare.
 A drone doth soar on wings of silent grace,
 With whirring hum, it glides through azure skies,
 A marvel wrought
+
+![image](https://github.com/user-attachments/assets/0d160eb4-face-4db8-b8d7-6b33e278a1f2)
